@@ -1,0 +1,22 @@
+{
+  "name": "electron_helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VhuanTech/Electron_HelloWorld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VhuanTech/Electron_HelloWorld/issues"
+  },
+  "homepage": "https://github.com/VhuanTech/Electron_HelloWorld#readme",
+  "dependencies": {
+    "electron": "^29.3.0"
+  }
+}
